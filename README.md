@@ -1,10 +1,36 @@
-## Joy Manyasi Kabaka
-Molecular biologist | RNA-Seq | NGS data analysis | Nairobi, Kenya
+# Joy Manyasi Kabaka
 
-- 🔬 First-authored RNA-Seq study on tsetse fly chemosensory genes (PLOS NTDs, 2020)
-- 📊 Skills: R · edgeR · DESeq2 · FastQC · BLAST · GSEA
-- 🌍 Research Interests: Clinical NGS, Cancer genomics enthusiast 
-- Genomics Ethics & Policy, African Genomic Data Equity,
+Molecular Biologist | RNA-Seq | NGS Data Analysis | Nairobi, Kenya
 
-   Genomics and Biotechnology Workgroup — African Bioethics Network
-- 📫 jmanyasa@gmail.com
+🔬 First-author RNA-Seq study on tsetse fly chemosensory genes  
+(PLOS Neglected Tropical Diseases, 2020)
+
+---
+
+## 🧬 Sequence Africa
+African genomics intelligence, sequencing infrastructure, and bioinformatics ecosystems.
+
+📩 https://sequenceafrica.substack.com
+
+---
+
+## 📊 Technical Skills
+R • edgeR • DESeq2 • FastQC • BLAST • GSEA
+
+---
+
+## 🌍 Research Interests
+- Clinical NGS
+- Cancer genomics
+- Genomics ethics & policy
+- African genomic data equity
+
+---
+
+## 🤝 Affiliations
+Genomics & Biotechnology Workgroup — African Bioethics Network
+
+---
+
+## 📫 Contact
+jmanyasa@gmail.com
