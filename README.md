@@ -1,36 +1,36 @@
 # Joy Manyasi Kabaka
 
-Molecular Biologist | RNA-Seq | NGS Data Analysis | Nairobi, Kenya
+Molecular Biologist · NGS & RNA-Seq · Nairobi, Kenya
 
-🔬 First-author RNA-Seq study on tsetse fly chemosensory genes  
-(PLOS Neglected Tropical Diseases, 2020)
+I am a molecular biologist with hands-on experience in NGS data analysis — 
+applying bioinformatics tools to answer real biological and clinical questions, 
+from tsetse fly transcriptomics to variant calling in cancer genomics.
 
----
-
-## 🧬 Sequence Africa
-African genomics intelligence, sequencing infrastructure, and bioinformatics ecosystems.
-
-📩 https://sequenceafrica.substack.com
+🔬 First-author · PLOS Neglected Tropical Diseases, 2020
 
 ---
 
-## 📊 Technical Skills
-R • edgeR • DESeq2 • FastQC • BLAST • GSEA
+### Bioinformatics Tools & Skills
+`R` `DESeq2` `edgeR` `GSEA` `GATK` `FastQC` `BLAST` `Python` `Bash`
 
 ---
 
-## 🌍 Research Interests
-- Clinical NGS
-- Cancer genomics
-- Genomics ethics & policy
-- African genomic data equity
+### Research Interests
+Clinical NGS · Cancer genomics · African genomic data equity · Genomics ethics & policy
 
 ---
 
-## 🤝 Affiliations
-Genomics & Biotechnology Workgroup — African Bioethics Network
+### Sequence Africa
+Building African genomics intelligence — sequencing infrastructure, 
+bioinformatics resources, and data equity advocacy.
+📩 [sequenceafrica.substack.com](https://sequenceafrica.substack.com)
 
 ---
 
-## 📫 Contact
-jmanyasa@gmail.com
+### Affiliations
+Genomics & Biotechnology Workgroup · African Bioethics Network
+
+---
+
+🌐 [Portfolio](https://joymanyasi.github.io) · 📧 jmanyasa@gmail.com · [ORCID](https://orcid.org/0000-0002-2253-3970)
+
