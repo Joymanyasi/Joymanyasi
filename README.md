@@ -11,18 +11,18 @@ from tsetse fly transcriptomics to variant calling in cancer genomics.
 ---
 
 ### Bioinformatics Tools & Skills
-`R` `DESeq2` `edgeR` `GSEA` `GATK` `FastQC` `BLAST` `Python` `Bash`
+`R` `DESeq2` `edgeR` `GSEA` `GATK` `FastQC` `BLAST` 
 
 ---
 
 ### Research Interests
-Clinical NGS · Cancer genomics · African genomic data equity · Genomics ethics & policy
+Clinical NGS  · African genomic data equity · Genomics ethics & policy
 
 ---
 
 ### Sequence Africa
-Building African genomics intelligence — sequencing infrastructure, 
-bioinformatics resources, and data equity advocacy.
+A newsletter covering African genomics intelligence — sequencing ecosystems,
+research policy, and the state of genomic science across the continent.
 📩 [sequenceafrica.substack.com](https://sequenceafrica.substack.com)
 
 ---
