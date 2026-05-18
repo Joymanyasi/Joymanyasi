@@ -48,8 +48,8 @@ My work spans RNA-Seq transcriptomics, infectious disease genomics, cancer varia
 
 ## 🌍 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://joymanyasi.github.io/)
 [![Email](https://img.shields.io/badge/Email-jmanyasa@gmail.com-D14836?style=flat&logo=gmail)](mailto:jmanyasa@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat&logo=orcid)](YOUR_ORCID_URL)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2253--3970-A6CE39?style=flat&logo=orcid)](https://orcid.org/0000-0002-2253-3970)
 [![Substack](https://img.shields.io/badge/Sequence_Africa-Substack-FF6719?style=flat&logo=substack)](https://sequenceafrica.substack.com)
 
