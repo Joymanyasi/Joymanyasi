@@ -1,50 +1,41 @@
 # Joy Manyasi Kabaka
-**Molecular Biologist · Applied Genomics · NGS Operations & African Genomics Systems**
+### Molecular Biologist · Applied Genomics · African Genomics Systems
 
-Molecular biologist working at the intersection of applied genomics, sequencing workflows, and scenario-based genomics education — with a focus on making NGS operations and bioinformatics analysis more accessible and operationally relevant for African clinical and research systems.
+Genomic data has the power to transform how Africa responds to disease but only if the right systems, training, and people are in place. 
+I design genomics workflows and build educational resources that make sequencing practical and usable for African research and clinical settings.
 
-My work spans RNA-Seq transcriptomics, infectious disease genomics, cancer variant calling, and translational genomics, with a strong emphasis on reproducibility, infrastructure literacy, and early-career capacity building.
+## Work
 
----
+**RNA-Seq Analysis in Tsetse Fly Transcriptomics** — differential expression in an African infectious disease context
 
-## 🔬 Areas of focus
+**Cancer Variant Calling Workflow** — end-to-end somatic variant detection and interpretation
 
-`Cancer Genomics` `Infectious Disease Genomics` `Clinical NGS & Variant Calling` `RNA-Seq & Transcriptomics` `Sequencing Workflow Design` `Genomics Infrastructure Literacy` `NGS Operations` `Reproducible Workflows` `African Genomic Data Equity` `Genomics Ethics & Policy`
+**Clinical NGS Variant Interpretation** — translating sequencing output into clinically actionable findings
 
----
-
-## 🧰 Tools & frameworks
-
-`R` `DESeq2` `edgeR` `GSEA` `GATK` `FastQC` `BLAST` `Nextflow` `nf-core` `GitHub`
+**NGS Hub** — scenario-based genomics workflows and infrastructure literacy for African trainees
 
 ---
 
-## 🚀 Current focus
 
-- **NGS Hub** — scenario-based genomics learning platform for African trainees and laboratories
-- **Sequence Africa** — genomics intelligence initiative exploring sequencing ecosystems, policy, and translational genomics across the continent
-- Developing African genomics workflow case studies and infrastructure literacy resources
-- Creating beginner-friendly educational materials and technical storytelling for genomics trainees
+## Current focus
 
----
+**NGS Hub** — scenario-based genomics learning for African clinical and research trainees
 
-## 📁 Featured projects
-
-| Project | Description |
-|---|---|
-| Cancer Variant Calling Workflow | End-to-end somatic variant calling pipeline |
-| Clinical NGS Variant Interpretation | Clinical-context variant curation and reporting |
-| RNA-Seq — Tsetse Fly Transcriptomics | Differential expression analysis in vector biology |
-| NGS Hub | African genomics workflows and infrastructure literacy |
+**Sequence Africa** — genomics intelligence and communication exploring sequencing ecosystems across the continent
+📩 sequenceafrica.substack.com
 
 ---
 
-## 📄 Publication & affiliations
+## Tools & methods
 
-- 🔬 First-author publication — *PLOS Neglected Tropical Diseases* (2020)
-- 🌍 Genomics & Biotechnology Workgroup — African Bioethics Network
+GATK · DESeq2 · edgeR · GSEA · FastQC · BLAST · Nextflow · nf-core · R 
 
----
+## Publications & affiliations
+
+First-author publication — *PLOS Neglected Tropical Diseases* (2020)
+
+Genomics & Biotechnology Workgroup — African Bioethics Network
+
 
 ## 🌍 Connect
 
