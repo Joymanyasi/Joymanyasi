@@ -1,46 +1,55 @@
 # Joy Manyasi Kabaka
-### Molecular Biologist · Applied Genomics · African Genomics Systems
 
-Genomic data has the power to transform how Africa responds to disease but only if the right systems, training, and people are in place. 
-I design genomics workflows and build educational resources that make sequencing practical and usable for African research and clinical settings.
+### **Molecular Biologist | Operational NGS Workflow Consultant**
 
-## Work
-
-**RNA-Seq Analysis in Tsetse Fly Transcriptomics** — differential expression in an African infectious disease context
-
-**Cancer Variant Calling Workflow** — end-to-end somatic variant detection and interpretation
-
-**Clinical NGS Variant Interpretation** — translating sequencing output into clinically actionable findings
-
-**NGS Hub** — scenario-based genomics workflows and infrastructure literacy for African trainees
+> Genomic data has the power to transform health outcomes in Africa—but only if the right laboratory design, validation workflows, and data interpretation systems are in place. I bridge the gap between complex wet-lab molecular benchwork and downstream sequence data interpretation, ensuring that clinical and research NGS pipelines are accurate, reproducible, and compliant.
 
 ---
 
+## 🚀 Key Initiatives & Task Contributions
 
-## Current focus
-
-**NGS Hub** — scenario-based genomics learning for African clinical and research trainees
-
-**Sequence Africa** — genomics intelligence and communication exploring sequencing ecosystems across the continent
-📩 sequenceafrica.substack.com
+* **Founder & Curator, NGS Hub**
+    * *Scenario-Based Learning:* Developing interactive, scenario-based genomics workflows and infrastructure literacy assets designed specifically for African clinical and research trainees to master wet-to-dry lab transitions.
+* **Workflow Proposal Author (Terminal-Bench Science — Under Review)**
+    * *Oncology Variant Evaluation:* Developed and submitted a comprehensive benchmarking task proposal: **"Benchmarking Reproducible Somatic Variant Interpretation Pipelines for Triple-Negative Breast Cancer in East African Populations."** The framework outlines the real-world biological rules, control criteria, and validation standards needed to measure how accurately frontier AI systems can reproduce and interpret localized clinical oncology variants.
+* **Editor, Sequence Africa**
+    * *Genomics Intelligence & Ecosystem Strategy:* Directing a publication that tracks sequencing facilities, laboratory operational challenges, and clinical genomics adoption across the continent.
+    * 📩 **Subscribe:** [sequenceafrica.substack.com](https://sequenceafrica.substack.com)
 
 ---
 
-## Tools & methods
+## 🔬 Core Wet-to-Dry Lab Competencies
 
-GATK · DESeq2 · edgeR · GSEA · FastQC · BLAST · Nextflow · nf-core · R 
+### **1. Molecular Workflow Design & Quality Compliance**
+* **Contamination & Spatial Design:** Architecting unidirectional physical flows within molecular labs (separating Pre-PCR reagent prep, sample extraction, and Post-PCR amplification) to guarantee clinical compliance.
+* **SOP Authoring:** Writing clean, audit-ready Standard Operating Procedures (SOPs) mapped to international diagnostic standards (ISO 15189 / JCI readiness).
+* **Advanced Extraction & Library Prep:** Deep experience with total RNA isolation protocols (TRIzol), target enrichment, Illumina TruSeq library preparation chemistry, Qubit fluorometry, and sample quality control using the Agilent Bioanalyzer 2100.
 
-## Publications & affiliations
+### **2. Biological Data Validation & Workflow Auditing**
+* **Sequence Quality Assessment:** Translating raw output files (FASTQ) and evaluating quality metrics (FastQC) to troubleshoot wet-lab extraction or sequencing errors.
+* **Downstream Biological Interpretation:** Evaluating differential gene expression outputs (edgeR/CLC Genomics Workbench) and transcriptomic datasets to isolate biologically sound, reproducible findings.
+* **Clinical Setup Support:** Guiding expanding molecular wings on the operational prerequisites needed to translate raw sequencing metrics into actionable clinical reporting workflows.
 
-First-author publication — *PLOS Neglected Tropical Diseases* (2020)
+---
 
-Genomics & Biotechnology Workgroup — African Bioethics Network
+## 📊 Methods & Tools Utilized
 
+* **Laboratory Workflows:** Molecular Lab Layouts (Pre/Post-PCR Separation) · Total RNA Quality Control Protocols · Scenario-Based Training Design · Sample Cold-Chain Tracking
+* **Analysis & Interpretation Environments:** CLC Genomics Workbench · FastQC · edgeR · BLAST · R (Biological Data Analysis)
+* **Biological Contexts & Pivot:** Vector-Borne Disease Transcriptomics (RNA-Seq Baseline) · Applied Cancer Genomics Workflows (Focus: East African Oncology Reference Standards) · Research-to-Clinical Operational Bridging
 
-## 🌍 Connect
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://joymanyasi.github.io/)
-[![Email](https://img.shields.io/badge/Email-jmanyasa@gmail.com-D14836?style=flat&logo=gmail)](mailto:jmanyasa@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2253--3970-A6CE39?style=flat&logo=orcid)](https://orcid.org/0000-0002-2253-3970)
-[![Substack](https://img.shields.io/badge/Sequence_Africa-Substack-FF6719?style=flat&logo=substack)](https://sequenceafrica.substack.com)
+## 📑 Publications & Professional Affiliations
 
+* **First-Author Publication:** *Expansions of chemosensory gene orthologs among selected tsetse fly species and their expressions in Glossina morsitans morsitans tsetse fly.* **PLOS Neglected Tropical Diseases** (2020). *Primary datasets deposited at NCBI SRA: PRJNA343267 & PRJNA343269.*
+* **Core Member:** Genomics & Biotechnology Working Group — *Africa Bioethics Network (ABN)*
+
+---
+
+## 🌍 Connect & Collaborate
+
+I partner with medical facilities, expanding clinical centers, and research groups looking to design, deploy, and audit high-integrity NGS diagnostics.
+
+* **Email:** [jmanyasa@gmail.com](mailto:jmanyasa@gmail.com)
+* **Digital Profile:** [joymanyasi.github.io](https://joymanyasi.github.io)
