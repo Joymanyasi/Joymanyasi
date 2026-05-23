@@ -7,14 +7,15 @@
 ---
 
 ## 🚀 Key Initiatives & Task Contributions
+* **Founder, Sequence Africa**
+    * *Genomics Intelligence & Ecosystem Strategy:* Directing a publication that tracks sequencing facilities, laboratory operational challenges, and clinical genomics adoption across the continent.
+    * 📩 **Subscribe:** [sequenceafrica.substack.com](https://sequenceafrica.substack.com)
 
-* **Founder & Curator, NGS Hub**
+* **Curator, NGS Hub**
     * *Scenario-Based Learning:* Developing interactive, scenario-based genomics workflows and infrastructure literacy assets designed specifically for African clinical and research trainees to master wet-to-dry lab transitions.
 * **Workflow Proposal Author (Terminal-Bench Science — Under Review)**
     * *Oncology Variant Evaluation:* Developed and submitted a comprehensive benchmarking task proposal: **"Benchmarking Reproducible Somatic Variant Interpretation Pipelines for Triple-Negative Breast Cancer in East African Populations."** The framework outlines the real-world biological rules, control criteria, and validation standards needed to measure how accurately frontier AI systems can reproduce and interpret localized clinical oncology variants.
-* **Editor, Sequence Africa**
-    * *Genomics Intelligence & Ecosystem Strategy:* Directing a publication that tracks sequencing facilities, laboratory operational challenges, and clinical genomics adoption across the continent.
-    * 📩 **Subscribe:** [sequenceafrica.substack.com](https://sequenceafrica.substack.com)
+
 
 ---
 
@@ -28,7 +29,7 @@
 ### **2. Biological Data Validation & Workflow Auditing**
 * **Sequence Quality Assessment:** Translating raw output files (FASTQ) and evaluating quality metrics (FastQC) to troubleshoot wet-lab extraction or sequencing errors.
 * **Downstream Biological Interpretation:** Evaluating differential gene expression outputs (edgeR/CLC Genomics Workbench) and transcriptomic datasets to isolate biologically sound, reproducible findings.
-* **Clinical Setup Support:** Guiding expanding molecular wings on the operational prerequisites needed to translate raw sequencing metrics into actionable clinical reporting workflows.
+
 
 ---
 
