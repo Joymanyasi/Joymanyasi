@@ -13,6 +13,7 @@
 
 * **Curator, NGS Hub**
     * *Scenario-Based Learning:* Developing interactive, scenario-based genomics workflows and infrastructure literacy assets designed specifically for African clinical and research trainees to master wet-to-dry lab transitions.
+    * * 📖 [Featured Case Study: The Guardians of the Kienyeji chicken](case-studies/the-kienyeji-chicken.md) - A narrative-driven scenario exploring wet-to-dry lab transitions and genomic data sovereignty.[cite: 1]
 * **Workflow Proposal Author (Terminal-Bench Science — Under Review)**
     * *Oncology Variant Evaluation:* Developed and submitted a comprehensive benchmarking task proposal: **"Benchmarking Reproducible Somatic Variant Interpretation Pipelines for Triple-Negative Breast Cancer in East African Populations."** The framework outlines the real-world biological rules, control criteria, and validation standards needed to measure how accurately frontier AI systems can reproduce and interpret localized clinical oncology variants.
 
