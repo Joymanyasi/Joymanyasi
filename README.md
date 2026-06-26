@@ -1,6 +1,6 @@
 # Joy Manyasi Kabaka
 
-**Molecular Biologist & Science Communicator | Exploring African biological futures through genomics, biodiversity, AI, and scientific sovereignty**
+**Molecular Biologist & Science Communicator | Exploring African biological futures through genomics, AI, and scientific sovereignty**
 
 
 
