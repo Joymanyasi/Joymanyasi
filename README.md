@@ -19,7 +19,7 @@ My current focus sits at the intersection of **African genomics**, **AI governan
 ### Benchmarking Proposal (Terminal-Bench Science, under review)
 
 **Benchmarking Reproducible Somatic Variant Interpretation Pipelines for Triple-Negative Breast Cancer in East African Populations.**  
-A framework defining the biological rules, control criteria, and validation standards needed to measure how accurately AI systems interpret clinical oncology variants in East African populations—populations that are largely absent from the datasets these systems were trained on.
+A framework defining the biological rules, control criteria, and validation standards needed to measure how accurately AI systems interpret clinical oncology variants in East African populations that are largely absent from the datasets these systems were trained on.
 
 ### Peer-Reviewed Publication
 
