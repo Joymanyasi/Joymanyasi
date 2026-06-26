@@ -10,7 +10,7 @@
 
 I am a molecular biologist and science communicator based in Nairobi, Kenya. Through writing and research, I kept encountering the same gap. African biological data is being generated, interpreted, and governed using frameworks built for other realities. That observation became a research question. This profile documents the work that followed.
 
-My current focus sits at the intersection of **African genomics**, **AI governance**, and **scientific sovereignty**. I examine what happens when reference systems, training datasets, and laboratory protocols calibrated elsewhere are applied to African populations, and what it would take to build better ones.
+My current focus sits at the intersection of **African genomics**, **AI governance**, and **scientific sovereignty**. I explore what happens when reference systems, training datasets, and laboratory protocols calibrated elsewhere are applied to African populations, and what it would take to build better ones.
 
 ---
 
