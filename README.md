@@ -14,7 +14,7 @@ Through my work, I observed a critical gap, African biological data is often int
 ### 📚 Research & Technical Literacy
 
 #### **Oncology AI & Data Foundations**
-*   **[Terminal-Bench Science] (Technical Proposal)**: *Benchmarking Reproducible Somatic Variant Interpretation Pipelines for Triple-Negative Breast Cancer in East African Populations.*
+*   **[Terminal-Bench Science] (Proposal Under review)**: *Benchmarking Reproducible Somatic Variant Interpretation Pipelines for Triple-Negative Breast Cancer in East African Populations.*
   
 *   **[Cancer Somatic Variant Calling](https://github.com/Joymanyasi/cancer-somatic-variant-calling)**: A **technical literacy repository** mapping GATK Best Practices to understand the genomic data structures that underpin clinical AI pipelines.
 
