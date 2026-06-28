@@ -1,59 +1,158 @@
 # Joy Manyasi Kabaka
-**Molecular Biologist & Science Communicator**  
-*Exploring African biological futures through genomics, AI, and scientific sovereignty*
+
+### Molecular Biologist • Genomics • AI • Scientific Sovereignty
+
+> *Building African-led genomic literacy, technical infrastructure awareness, and responsible AI through research, education, and science communication.*
 
 ---
 
-### 🧬 About
-I am a molecular biologist based in Nairobi, Kenya, focused on the intersection of **African genomics**, **AI governance**, and **scientific sovereignty**. 
+<p align="center">
 
-Through my work, I observed a critical gap, African biological data is often interpreted and governed using frameworks built for other realities. That observation became my research question. I explore what happens when reference systems, training datasets, and laboratory protocols calibrated elsewhere are applied to African populations and how we build sovereign alternatives.
+🧬 **African Genomics** • 🤖 **AI Governance** • 🧪 **NGS & Bioinformatics** • 🌍 **Scientific Sovereignty**
 
----
+📍 Nairobi, Kenya   |   🌐 <a href="https://joymanyasi.github.io">Website</a>   |   🆔 <a href="https://orcid.org/0000-0002-2253-3970">ORCID</a>
 
-### 📚 Research & Technical Literacy
-
-#### **Oncology AI & Data Foundations**
-*   **[Terminal-Bench Science] (Proposal Under review)**: *Benchmarking Reproducible Somatic Variant Interpretation Pipelines for Triple-Negative Breast Cancer in East African Populations.*
-  
-*   **[Cancer Somatic Variant Calling](https://github.com/Joymanyasi/cancer-somatic-variant-calling)**: A **technical literacy repository** mapping GATK Best Practices to understand the genomic data structures that underpin clinical AI pipelines.
-
-#### **Peer-Reviewed Research**
-*   **[PLOS Neglected Tropical Diseases (2020)](https://doi.org/10.1371/journal.pntd.0008341)**: *Expansions of chemosensory gene orthologs among selected tsetse fly species and their expressions in Glossina morsitans morsitans.*
-    *   Primary datasets deposited at NCBI SRA: [PRJNA343267](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA343267) | [PRJNA343269](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA343269)
+</p>
 
 ---
 
-### 🚀 Projects & Platforms
- **[Sequence Africa](https://sequenceafrica.substack.com)**: A science and narrative newsletter documenting the  scientific discoveries, and biological sovereignty questions shaping Africa's genomic future.
-.
-*   **[NGS Hub](https://github.com/Joymanyasi/NGS-hub)**: Scenario-based learning designed to develop critical judgment for researchers working in African genomic settings.
-*   **[Research Notes](https://github.com/Joymanyasi/research-notes)**: A living archive of memos and reflections on AI governance and data justice.
-*   **[The Guardians of the Kienyeji Chicken]**: *In Production.* A short documentary advocating for biological data sovereignty and gene bank preservation.
+## 🧬 About
+
+I am a molecular biologist based in Nairobi, Kenya, exploring the intersection of **African genomics**, **artificial intelligence**, and **scientific sovereignty**.
+
+My work is driven by a central question:
+
+> **What happens when genomic reference systems, AI models, and laboratory standards developed elsewhere become the default for African biological systems?**
+
+Through technical learning, research, and science communication, I explore how African-led genomic infrastructure, biological data, and AI governance can support more equitable and context-aware scientific futures.
 
 ---
 
-### 🛠️ Core Competencies
+## 🚧 Currently Building
 
-| **Molecular** |**Genomics** **Governance & Ethics** |
-| :--- | :--- | :--- |
-| ![WetLab](https://img.shields.io/badge/-Molecular-blue) | ![Bioinfo](https://img.shields.io/badge/-Bioinformatics-green) | ![Ethics](https://img.shields.io/badge/-AI_Governance-orange) |
-| RNA-Seq (TRIzol, TruSeq) | Technical Literacy & Immersion | Critical Data Studies |
-| Target Enrichment | GATK Best Practices | Scientific Sovereignty |
-| SOP/Workflow Design | R (edgeR) | Ubuntu-Informed Ethics |
+* 🧬 **Terminal-Bench Science** *(Proposal under review)*
+  Benchmarking reproducible somatic variant interpretation pipelines for Triple-Negative Breast Cancer in East African populations.
+
+* 📰 **Sequence Africa**
+  A newsletter documenting African genomics, biotechnology, and scientific sovereignty.
+
+* 🧪 **NGS Hub**
+  Scenario-based learning designed to strengthen technical judgment in genomics and bioinformatics.
+
+* 📚 **Research Notes**
+  A living archive exploring AI governance, biological data justice, and emerging research questions.
+
+* 🎥 **The Guardians of the Kienyeji Chicken** *(In Production)*
+  A short documentary advocating for biological data sovereignty and indigenous gene bank preservation.
 
 ---
 
-### 🤝 Affiliations
-*   **Core Member**: Genomics and Biotechnology Working Group, *Africa Bioethics Network*
-*   **Editorial Contributor**: *Improving Health Articles in Africa Project (2026)*
+## 🔬 Research & Technical Literacy
+
+### Oncology AI & Data Foundations
+
+### 🧬 Cancer Somatic Variant Calling
+
+Repository exploring **GATK Best Practices**, variant interpretation, and the genomic data structures underpinning clinical AI pipelines.
+
+🔗 https://github.com/Joymanyasi/cancer-somatic-variant-calling
 
 ---
 
-### 📫 Connect
-*   🌐 **Digital Profile**: [joymanyasi.github.io](https://joymanyasi.github.io)
-*   📧 **Email**: jmanyasa@gmail.com
-*   🆔 **ORCID**: [0000-0002-2253-3970](https://orcid.org/0000-0002-2253-3970)
+### 📖 Peer-Reviewed Research
 
-*I partner with researchers and institutions working on African-led genomics and accountable AI.*
+**PLOS Neglected Tropical Diseases (2020)**
 
+*Expansions of chemosensory gene orthologs among selected tsetse fly species and their expressions in Glossina morsitans morsitans.*
+
+DOI:
+https://doi.org/10.1371/journal.pntd.0008341
+
+Primary datasets:
+
+* PRJNA343267
+* PRJNA343269
+
+---
+
+## 🚀 Projects & Platforms
+
+| Project                                      | Description                                                                                  |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| 📰 **Sequence Africa**                       | Science newsletter exploring African genomics, biodiversity, AI and scientific sovereignty. |
+| 🧪 **NGS Hub**                               | Scenario-based learning for genomics researchers and students.                               |
+| 📚 **Research Notes**                        | Living archive of research memos and governance reflections.                                 |
+| 🎥 **The Guardians of the Kienyeji Chicken** | Documentary exploring biological data sovereignty and indigenous genetic resources.          |
+
+---
+
+## 🛠 Core Competencies
+
+### 🧬 Molecular Biology
+
+* RNA Extraction (TRIzol)
+* RNA-Seq Library Preparation (TruSeq)
+* Target Enrichment
+* SOP Development
+* Molecular Laboratory Workflows
+
+### 💻 Bioinformatics
+
+* RNA-Seq Analysis
+* GATK Best Practices
+* Somatic Variant Calling
+* edgeR
+* Linux / Ubuntu
+* Technical Pipeline Literacy
+
+### 🌍 Governance & Scientific Futures
+
+* AI Governance
+* Scientific Sovereignty
+* Critical Data Studies
+* Biological Data Governance
+* Open Science
+* Ubuntu-informed Research Ethics
+
+---
+
+## 🤝 Affiliations
+
+* **Core Member**
+  Genomics & Biotechnology Working Group
+  Africa Bioethics Network
+
+* **Editorial Contributor**
+  Improving Health Articles in Africa Project (2026)
+
+---
+
+## 📈 Research Vision
+
+My long-term work explores how genomics, artificial intelligence, and biological data governance can strengthen Africa's scientific capacity.
+
+Current themes include:
+
+* African genomic reference systems
+* Responsible AI for healthcare
+* Variant interpretation in underrepresented populations
+* Biodiversity genomics
+* Biological data sovereignty
+* Scientific infrastructure literacy
+
+---
+
+## 📫 Connect
+
+🌐 Website
+https://joymanyasi.github.io
+
+🆔 ORCID
+https://orcid.org/0000-0002-2253-3970
+
+📧 Email
+[jmanyasa@gmail.com](mailto:jmanyasa@gmail.com)
+
+---
+
+> *Exploring African biological futures through genomics, AI, and scientific sovereignty.*
