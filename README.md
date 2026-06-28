@@ -27,35 +27,64 @@ My work is driven by a central question:
 Through technical learning, research, and science communication, I explore how African-led genomic infrastructure, biological data, and AI governance can support more equitable and context-aware scientific futures.
 
 ---
-
 ## ⭐ Featured Repositories
 
-| Repository                                                     | Focus                                                                                         |
-| :------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| 🧬 **Cancer Somatic Variant Calling**                          | Learning GATK Best Practices, variant interpretation, and clinical genomics workflows.        |
-| 🧪 **Clinical NGS Variant Calling**                            | Technical exploration of reproducible NGS analysis pipelines.                                 |
-| 📚 **Research Notes**                                          | Living archive of memos on AI governance, genomics, and scientific sovereignty.               |
-| 📰 **Sequence Africa**                                         | Science newsletter exploring African genomics, biodiversity, AI, and scientific sovereignty.  |
-| 🎥 **The Guardians of the Kienyeji Chicken** *(In Production)* | Documentary advocating for biological data sovereignty and indigenous gene bank preservation. |
-| 💻 **NGS Hub**                                                 | Scenario-based learning for genomics researchers and students.                                |
+### 📰 [Sequence Africa](https://sequenceafrica.substack.com)
+
+Science publication exploring African genomics, biodiversity, AI, and scientific sovereignty.
+
+### 🧬 [Cancer Somatic Variant Calling](https://github.com/Joymanyasi/cancer-somatic-variant-calling)
+
+Learning GATK Best Practices, variant interpretation, and clinical genomics workflows.
+
+### 🧪 [Clinical NGS Variant Calling](https://github.com/Joymanyasi/clinical-ngs-variant-calling)
+
+Technical exploration of reproducible NGS analysis pipelines.
+
+### 📚 [Research Notes](https://github.com/Joymanyasi/research-notes)
+
+Living archive of research memos on AI governance and scientific sovereignty.
+
+### 💻 [NGS Hub](https://github.com/Joymanyasi/NGS-hub)
+
+Scenario-based learning designed to strengthen technical judgment in genomics and bioinformatics.
+
+### 🎥 The Guardians of the Kienyeji Chicken *(In Production)*
+
+Documentary exploring biological data sovereignty and indigenous genetic resources.
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 ---
-
 ## 🚧 Currently Building
 
 * 🧬 **Terminal-Bench Science** *(Proposal under review)*
   Benchmarking reproducible somatic variant interpretation pipelines for Triple-Negative Breast Cancer in East African populations.
 
-* 📰 **Sequence Africa**
+* 📰 **[Sequence Africa](https://sequenceafrica.substack.com)**
   A science newsletter documenting African genomics, biodiversity, biotechnology, and scientific sovereignty.
 
-* 🧪 **NGS Hub**
+* 🧪 **[NGS Hub](https://github.com/Joymanyasi/NGS-hub)**
   Scenario-based learning designed to strengthen technical judgment in genomics and bioinformatics.
 
-* 📚 **Research Notes**
+* 📚 **[Research Notes](https://github.com/Joymanyasi/research-notes)**
   A living archive exploring AI governance, biological data justice, and emerging research questions.
 
 * 🎥 **The Guardians of the Kienyeji Chicken** *(In Production)*
+  A documentary advocating for biological data sovereignty and indigenous gene bank preservation.
+
+
 
 ---
 
