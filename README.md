@@ -69,8 +69,7 @@ Documentary exploring biological data sovereignty and indigenous genetic resourc
 ---
 ## 🚧 Currently Building
 
-* 🧬 **Terminal-Bench Science** *(Proposal under review)*
-  Benchmarking reproducible somatic variant interpretation pipelines for Triple-Negative Breast Cancer in East African populations.
+* 🧬 Algorithmic Inequity & the Invisible Patient – Critical study of how underrepresentation of East African women with triple‑negative breast cancer in breast‑cancer AI training data produces unequal care outcomes and what would be needed for more equitable AI.
 
 * 📰 **[Sequence Africa](https://sequenceafrica.substack.com)**
   A science newsletter documenting African genomics, biodiversity, biotechnology, and scientific sovereignty.
