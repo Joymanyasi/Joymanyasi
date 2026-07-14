@@ -4,7 +4,7 @@
 
 ### Molecular Biologist • Genomics • AI • Scientific Sovereignty
 
-*Building African-led genomic literacy, responsible AI, and scientific infrastructure through research, technical education, and science communication.*
+*Documenting and exploring African genomics, artificial intelligence and scientific sovereignty through research, technical learning and science communication..*
 
 <br>
 
